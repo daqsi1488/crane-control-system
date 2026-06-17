@@ -1,0 +1,40 @@
+2026-06-14 14:19:38 | INFO     | src.utils.logger_setup:setup_logging:48 - Logging system initialized
+2026-06-14 14:19:38 | INFO     | __main__:main:30 - Starting Port Crane Simulator Pro v1.0.0
+2026-06-14 14:19:38 | INFO     | src.app.application:__init__:26 - Initializing Crane Application
+2026-06-14 14:19:39 | INFO     | src.core.database.db_manager:__init__:21 - Database initialized at data/crane.db
+2026-06-14 14:19:39 | DEBUG    | src.ui.main_window:load_styles:52 - Stylesheet loaded
+2026-06-14 14:19:39 | INFO     | src.core.simulation.physics_engine:__init__:41 - Physics engine initialized
+2026-06-14 14:19:39 | INFO     | src.ui.windows.sim_window:__init__:35 - Simulation window initialized
+2026-06-14 14:19:39 | INFO     | src.ui.windows.dashboard_window:__init__:25 - Dashboard window initialized
+2026-06-14 14:19:39 | INFO     | src.ui.windows.journal_window:__init__:25 - Journal window initialized
+2026-06-14 14:19:39 | INFO     | src.ui.windows.stats_window:__init__:25 - Statistics window initialized
+2026-06-14 14:19:39 | INFO     | src.ui.windows.users_window:__init__:21 - Users window initialized
+2026-06-14 14:19:39 | INFO     | src.ui.main_window:__init__:42 - Main window initialized
+2026-06-14 14:20:06 | INFO     | src.services.auth_service:authenticate:81 - User student authenticated successfully
+2026-06-14 14:20:06 | INFO     | src.ui.windows.login_window:attempt_login:251 - User student logged in successfully
+2026-06-14 14:20:06 | DEBUG    | src.ui.main_window:start_status_timer:228 - Status timer started
+2026-06-14 14:20:06 | INFO     | src.services.logging_service:start_session:27 - Started training session 2 for user 3
+2026-06-14 14:20:06 | DEBUG    | src.app.application:start_auto_save_timer:98 - Auto-save timer started (30000ms)
+2026-06-14 14:20:06 | INFO     | src.app.application:show_login_dialog:67 - User student logged in successfully
+2026-06-14 14:20:13 | INFO     | src.core.simulation.sim_loop:__init__:22 - Simulation thread created
+2026-06-14 14:20:13 | INFO     | src.ui.windows.sim_window:start_simulation:179 - Simulation thread started
+2026-06-14 14:20:13 | INFO     | src.core.simulation.sim_loop:run:26 - Simulation thread started
+2026-06-14 14:20:40 | INFO     | src.core.simulation.sim_loop:pause:55 - Simulation paused
+2026-06-14 14:20:40 | INFO     | src.ui.windows.sim_window:pause_simulation:187 - Simulation paused
+2026-06-14 14:20:41 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📊 Дашборд
+2026-06-14 14:20:50 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📝 Журнал событий
+2026-06-14 14:20:50 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'
+2026-06-14 14:20:53 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📊 Дашборд
+2026-06-14 14:20:53 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📝 Журнал событий
+2026-06-14 14:20:53 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'
+2026-06-14 14:20:54 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📈 Статистика
+2026-06-14 14:20:54 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 👥 Пользователи
+2026-06-14 14:20:56 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📈 Статистика
+2026-06-14 14:20:57 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 👥 Пользователи
+2026-06-14 14:20:59 | INFO     | src.ui.windows.users_window:load_users:150 - Loaded 3 users
+2026-06-14 14:21:05 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📝 Журнал событий
+2026-06-14 14:21:05 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'
+2026-06-14 14:21:07 | DEBUG    | src.ui.main_window:stop_status_timer:235 - Status timer stopped
+2026-06-14 14:21:07 | INFO     | src.app.application:shutdown:124 - Shutting down application
+2026-06-14 14:21:07 | DEBUG    | src.app.application:stop_auto_save_timer:105 - Auto-save timer stopped
+2026-06-14 14:21:07 | INFO     | __main__:main:55 - Application exited with code 0

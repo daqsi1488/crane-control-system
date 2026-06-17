@@ -1,0 +1,4 @@
+2026-06-09 00:38:09 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'
+2026-06-09 00:39:09 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'
+2026-06-09 00:39:15 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'
+2026-06-09 00:39:16 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'

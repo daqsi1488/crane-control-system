@@ -1,0 +1,39 @@
+app:
+  name: "Port Crane Simulator Pro"
+  version: "1.0.0"
+  company: "Training Systems Inc."
+
+database:
+  path: "data/crane.db"
+  echo: false
+
+simulation:
+  dt: 0.02  # шаг физики (сек)
+  gravity: 9.81
+  crane:
+    max_speed: 2.0  # м/с
+    max_load: 5000  # кг
+    cable_length: 10.0  # м
+    mass_trolley: 200  # кг
+    mass_load: 1000  # кг (по умолчанию)
+  render_fps: 50
+
+communication:
+  modbus:
+    enabled: false
+    host: "192.168.1.100"
+    port: 502
+    timeout: 1.0
+  websocket:
+    enabled: false
+    url: "ws://192.168.1.101:8765"
+
+ui:
+  theme: "dark"  # dark/light
+  language: "ru"
+  auto_save_interval: 30  # секунд
+
+logging:
+  level: "INFO"
+  rotation: "10 MB"
+  retention: "30 days"

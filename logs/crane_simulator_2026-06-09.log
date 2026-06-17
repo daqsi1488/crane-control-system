@@ -1,0 +1,100 @@
+2026-06-09 00:12:14 | INFO     | src.utils.logger_setup:setup_logging:48 - Logging system initialized
+2026-06-09 00:12:14 | INFO     | __main__:main:30 - Starting Port Crane Simulator Pro v1.0.0
+2026-06-09 00:12:14 | INFO     | src.app.application:__init__:26 - Initializing Crane Application
+2026-06-09 00:12:15 | INFO     | src.core.database.db_manager:__init__:21 - Database initialized at data/crane.db
+2026-06-09 00:12:15 | INFO     | src.services.auth_service:_create_default_users:53 - Default users created
+2026-06-09 00:12:15 | DEBUG    | src.ui.main_window:load_styles:57 - Stylesheet loaded
+2026-06-09 00:12:15 | INFO     | src.core.simulation.physics_engine:__init__:41 - Physics engine initialized
+2026-06-09 00:12:15 | INFO     | src.ui.windows.sim_window:__init__:35 - Simulation window initialized
+2026-06-09 00:12:16 | INFO     | src.ui.windows.dashboard_window:__init__:25 - Dashboard window initialized
+2026-06-09 00:21:01 | INFO     | src.utils.logger_setup:setup_logging:48 - Logging system initialized
+2026-06-09 00:21:01 | INFO     | __main__:main:30 - Starting Port Crane Simulator Pro v1.0.0
+2026-06-09 00:21:01 | INFO     | src.app.application:__init__:26 - Initializing Crane Application
+2026-06-09 00:21:01 | INFO     | src.core.database.db_manager:__init__:21 - Database initialized at data/crane.db
+2026-06-09 00:21:01 | DEBUG    | src.ui.main_window:load_styles:57 - Stylesheet loaded
+2026-06-09 00:21:01 | INFO     | src.core.simulation.physics_engine:__init__:41 - Physics engine initialized
+2026-06-09 00:21:01 | INFO     | src.ui.windows.sim_window:__init__:35 - Simulation window initialized
+2026-06-09 00:21:02 | INFO     | src.ui.windows.dashboard_window:__init__:25 - Dashboard window initialized
+2026-06-09 00:21:02 | INFO     | src.ui.windows.journal_window:__init__:25 - Journal window initialized
+2026-06-09 00:21:02 | INFO     | src.ui.windows.stats_window:__init__:25 - Statistics window initialized
+2026-06-09 00:22:23 | INFO     | src.utils.logger_setup:setup_logging:48 - Logging system initialized
+2026-06-09 00:22:23 | INFO     | __main__:main:30 - Starting Port Crane Simulator Pro v1.0.0
+2026-06-09 00:22:23 | INFO     | src.app.application:__init__:26 - Initializing Crane Application
+2026-06-09 00:22:23 | INFO     | src.core.database.db_manager:__init__:21 - Database initialized at data/crane.db
+2026-06-09 00:22:23 | DEBUG    | src.ui.main_window:load_styles:57 - Stylesheet loaded
+2026-06-09 00:22:23 | INFO     | src.core.simulation.physics_engine:__init__:41 - Physics engine initialized
+2026-06-09 00:22:23 | INFO     | src.ui.windows.sim_window:__init__:35 - Simulation window initialized
+2026-06-09 00:22:24 | INFO     | src.ui.windows.dashboard_window:__init__:25 - Dashboard window initialized
+2026-06-09 00:22:24 | INFO     | src.ui.windows.journal_window:__init__:25 - Journal window initialized
+2026-06-09 00:22:24 | INFO     | src.ui.windows.stats_window:__init__:25 - Statistics window initialized
+2026-06-09 00:22:24 | INFO     | src.ui.windows.users_window:__init__:21 - Users window initialized
+2026-06-09 00:22:24 | INFO     | src.ui.main_window:__init__:46 - Main window initialized
+2026-06-09 00:22:43 | INFO     | src.app.application:show_login_dialog:69 - Login cancelled, exiting application
+2026-06-09 00:22:43 | INFO     | src.app.application:shutdown:104 - Shutting down application
+2026-06-09 00:22:43 | INFO     | src.core.database.db_manager:close:40 - Database connection closed
+2026-06-09 00:22:43 | INFO     | src.app.application:shutdown:110 - Application shutdown complete
+2026-06-09 00:31:36 | INFO     | src.utils.logger_setup:setup_logging:48 - Logging system initialized
+2026-06-09 00:31:36 | INFO     | __main__:main:30 - Starting Port Crane Simulator Pro v1.0.0
+2026-06-09 00:31:36 | INFO     | src.app.application:__init__:26 - Initializing Crane Application
+2026-06-09 00:31:36 | INFO     | src.core.database.db_manager:__init__:21 - Database initialized at data/crane.db
+2026-06-09 00:31:36 | DEBUG    | src.ui.main_window:load_styles:52 - Stylesheet loaded
+2026-06-09 00:31:37 | INFO     | src.core.simulation.physics_engine:__init__:41 - Physics engine initialized
+2026-06-09 00:31:37 | INFO     | src.ui.windows.sim_window:__init__:35 - Simulation window initialized
+2026-06-09 00:31:37 | INFO     | src.ui.windows.dashboard_window:__init__:25 - Dashboard window initialized
+2026-06-09 00:31:37 | INFO     | src.ui.windows.journal_window:__init__:25 - Journal window initialized
+2026-06-09 00:31:37 | INFO     | src.ui.windows.stats_window:__init__:25 - Statistics window initialized
+2026-06-09 00:31:37 | INFO     | src.ui.windows.users_window:__init__:21 - Users window initialized
+2026-06-09 00:31:37 | INFO     | src.ui.main_window:__init__:42 - Main window initialized
+2026-06-09 00:31:51 | INFO     | src.services.auth_service:authenticate:69 - User admin authenticated successfully
+2026-06-09 00:31:51 | INFO     | src.ui.windows.login_window:attempt_login:251 - User admin logged in successfully
+2026-06-09 00:37:50 | INFO     | src.utils.logger_setup:setup_logging:48 - Logging system initialized
+2026-06-09 00:37:50 | INFO     | __main__:main:30 - Starting Port Crane Simulator Pro v1.0.0
+2026-06-09 00:37:50 | INFO     | src.app.application:__init__:26 - Initializing Crane Application
+2026-06-09 00:37:50 | INFO     | src.core.database.db_manager:__init__:21 - Database initialized at data/crane.db
+2026-06-09 00:37:50 | DEBUG    | src.ui.main_window:load_styles:52 - Stylesheet loaded
+2026-06-09 00:37:51 | INFO     | src.core.simulation.physics_engine:__init__:41 - Physics engine initialized
+2026-06-09 00:37:51 | INFO     | src.ui.windows.sim_window:__init__:35 - Simulation window initialized
+2026-06-09 00:37:51 | INFO     | src.ui.windows.dashboard_window:__init__:25 - Dashboard window initialized
+2026-06-09 00:37:51 | INFO     | src.ui.windows.journal_window:__init__:25 - Journal window initialized
+2026-06-09 00:37:51 | INFO     | src.ui.windows.stats_window:__init__:25 - Statistics window initialized
+2026-06-09 00:37:51 | INFO     | src.ui.windows.users_window:__init__:21 - Users window initialized
+2026-06-09 00:37:51 | INFO     | src.ui.main_window:__init__:42 - Main window initialized
+2026-06-09 00:37:59 | INFO     | src.services.auth_service:authenticate:81 - User admin authenticated successfully
+2026-06-09 00:37:59 | INFO     | src.ui.windows.login_window:attempt_login:251 - User admin logged in successfully
+2026-06-09 00:37:59 | DEBUG    | src.ui.main_window:start_status_timer:228 - Status timer started
+2026-06-09 00:37:59 | INFO     | src.services.logging_service:start_session:27 - Started training session 1 for user 1
+2026-06-09 00:37:59 | DEBUG    | src.app.application:start_auto_save_timer:98 - Auto-save timer started (30000ms)
+2026-06-09 00:37:59 | INFO     | src.app.application:show_login_dialog:67 - User admin logged in successfully
+2026-06-09 00:38:08 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📊 Дашборд
+2026-06-09 00:38:09 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📝 Журнал событий
+2026-06-09 00:38:09 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'
+2026-06-09 00:38:11 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 👥 Пользователи
+2026-06-09 00:38:12 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📈 Статистика
+2026-06-09 00:38:14 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 🚀 Симулятор крана
+2026-06-09 00:38:19 | INFO     | src.core.simulation.sim_loop:__init__:22 - Simulation thread created
+2026-06-09 00:38:19 | INFO     | src.ui.windows.sim_window:start_simulation:179 - Simulation thread started
+2026-06-09 00:38:19 | INFO     | src.ui.main_window:start_simulation:248 - Simulation started
+2026-06-09 00:38:19 | INFO     | src.core.simulation.sim_loop:run:26 - Simulation thread started
+2026-06-09 00:38:29 | DEBUG    | src.app.application:auto_save_state:120 - Auto-saving simulation state
+2026-06-09 00:38:47 | INFO     | src.core.simulation.sim_loop:run:50 - Simulation thread stopped
+2026-06-09 00:38:47 | INFO     | src.core.simulation.sim_loop:stop:69 - Simulation thread stopping
+2026-06-09 00:38:47 | INFO     | src.ui.windows.sim_window:stop_simulation:202 - Simulation stopped
+2026-06-09 00:38:47 | INFO     | src.core.simulation.physics_engine:reset:154 - Physics engine reset
+2026-06-09 00:38:47 | INFO     | src.ui.windows.sim_window:reset_simulation:216 - Simulation reset
+2026-06-09 00:38:47 | INFO     | src.ui.main_window:reset_simulation:262 - Simulation reset
+2026-06-09 00:38:48 | INFO     | src.ui.main_window:stop_simulation:256 - Simulation stopped
+2026-06-09 00:39:09 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📝 Журнал событий
+2026-06-09 00:39:09 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'
+2026-06-09 00:39:13 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📈 Статистика
+2026-06-09 00:39:14 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 👥 Пользователи
+2026-06-09 00:39:15 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📈 Статистика
+2026-06-09 00:39:15 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📝 Журнал событий
+2026-06-09 00:39:15 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'
+2026-06-09 00:39:16 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 🚀 Симулятор крана
+2026-06-09 00:39:16 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📊 Дашборд
+2026-06-09 00:39:16 | DEBUG    | src.ui.main_window:on_tab_changed:286 - Switched to tab: 📝 Журнал событий
+2026-06-09 00:39:16 | ERROR    | src.core.database.db_manager:get_session:32 - Database error: 'dict' object has no attribute 'id'
+2026-06-09 00:39:19 | DEBUG    | src.ui.main_window:stop_status_timer:235 - Status timer stopped
+2026-06-09 00:39:19 | INFO     | src.app.application:shutdown:124 - Shutting down application
+2026-06-09 00:39:19 | DEBUG    | src.app.application:stop_auto_save_timer:105 - Auto-save timer stopped
+2026-06-09 00:39:19 | INFO     | __main__:main:55 - Application exited with code 0
